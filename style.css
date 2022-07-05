@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.Flexible {
+    display: flex;
+
+}
+
+.orange-color {
+    color: orange;
+}
+
+p {
+    font-size: 18px;
+}
+
+.half-width img {
+    width: 80%;
+}
